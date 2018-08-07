@@ -36,7 +36,6 @@ var slider_plugin = (function() {
   var custom_slider = function (settings) {
     var _ = this;
 
-    // always loop
     _.def = {
       target: $('.slider-container .slider'),
       dotsWrapper: $('.slider-container .dots-wrapper'),
