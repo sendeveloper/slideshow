@@ -1,4 +1,4 @@
-# slideshow
+# Slideshow
 Pure Javascript Slideshow
 
 Responsive
